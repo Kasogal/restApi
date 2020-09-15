@@ -1,0 +1,22 @@
+export const RESTART_ON_REMOUNT = '@@saga-injector/restart-on-remount';
+export const DAEMON = '@@saga-injector/daemon';
+export const ONCE_TILL_UNMOUNT = '@@saga-injector/once-till-unmount';
+export const MIN_PASSWORD_LENGTH = 8;
+
+export const TYPE_USER = {
+  Master: 'MASTER',
+  Administrator: 'ADM',
+  Attendant: 'ATEND',
+  Doctor: 'MED',
+  Nurse: 'ENF',
+};
+
+export const PERMISSION = {
+  GENERAL: 'GENERAL',
+  ROLE_USER_REGISTRATION: 'ROLE_USER_REGISTRATION',
+  ROLE_PROFILE_REGISTRATION: 'ROLE_PROFILE_REGISTRATION',
+  ROLE_PROFESSIONAL_REGISTRATION: 'ROLE_PROFESSIONAL_REGISTRATION',
+  ROLE_PATIENT_REGISTRATION: 'ROLE_PATIENT_REGISTRATION',
+  ROLE_PATIENT_SCHEDULING: 'ROLE_PATIENT_SCHEDULING',
+  ROLE_DOCTOR_ATTENDANCE: 'ROLE_DOCTOR_ATTENDANCE',
+};

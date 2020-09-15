@@ -1,0 +1,48 @@
+button:focus, :focus {
+  outline: none;
+}
+
+.container-login{
+  margin: 0 auto;
+  margin-top: 15% !important;
+}
+
+.logo-top{
+    margin-left: 8rem;
+    position: absolute;
+    text-shadow: 0rem 0.09rem 0.2rem #7A7A7A;
+    font-weight: bolder;
+    margin-top: .5rem;
+}
+
+.logo-sub-top{
+    margin-left: 8.1rem;
+    position: absolute;
+    text-shadow: 0rem 0.05rem 0.02rem #ffffff75;
+    font-weight: bolder;
+    color: $white;
+}
+
+.login-top{
+    text-shadow: 0rem 0.05rem 0.02rem #ffffff75;
+    font-weight: bolder;
+    color: $white;
+}
+.border-botton{
+  border-bottom: 1px solid $blue;
+  width: 100%;
+}
+
+.min-with-100 {
+  min-width: 100% !important;
+}
+
+.border-left-especial{
+  border-left: .2rem $blue solid;
+}
+.text-size-default{
+  font-size: 1.1rem;
+}
+.menu-vertical{
+  z-index: 100;
+}

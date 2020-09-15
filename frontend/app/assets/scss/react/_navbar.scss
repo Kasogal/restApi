@@ -1,0 +1,41 @@
+.navbar .collapsing .navbar-toggler{
+  pointer-events: none;
+}
+.navbar .nav-item .nav-link-icon.nav-link i{
+  margin-right: 4px;
+}
+.navbar-top-header {
+  box-shadow: 1px 1px 1px 1px rgba(0,0,0,0.4) !important;
+  padding: .7rem .7rem !important;
+  flex-flow: nowrap;
+}
+.navbar-tool-header{
+  z-index: 1;
+}
+.navbar-top-logo {
+  width: 85px;
+  height: 85px;
+  top: .1rem;
+  z-index: 200;
+  display: block;
+  position: absolute;
+}
+.navbar-top-logo-img {
+  width: 100%;
+  height: auto !important;
+  background: radial-gradient(circle, rgba(255,255,255,1) 50%, rgba(255,255,255,0) 75%)
+}
+
+.nav-link{
+  padding-top: 0rem !important;
+  padding-bottom: 0rem !important;
+}
+
+.navbar-vertical{
+  min-height: -webkit-fill-available;
+  align-items: flex-start !important;
+  margin-top: 0.1rem;
+}
+.cursor-pointer{
+  cursor: pointer;
+}

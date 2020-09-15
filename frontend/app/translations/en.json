@@ -1,0 +1,35 @@
+{
+  "front.components.Footer.corporate": "Copyright © 2019-2020",
+  "front.components.Footer.name": "Clínico",
+  "front.components.Footer.nameComplete": "Clinical Care System.",
+  "front.components.Footer.version": "Version",
+
+  "front.components.HeaderTop.name": "Clínico",
+  "front.components.HeaderTop.nameComplete": "Clinical Care System.",
+  "front.components.HeaderTop.shortcut": "Quick access",
+  "front.components.HeaderTop.notifications": "Notifications",
+  "front.components.HeaderTop.support": "Online suporte",
+  "front.components.HeaderTop.settings": "Settings",
+  "front.components.HeaderTop.logout": "Logout",
+
+  "front.components.HeaderTool.module.initial": "General",
+  "front.components.HeaderTool.menu.initial": "Home",
+
+  "front.containers.Security.title": "Access Credentials",
+  "front.containers.Security.subTitle": "To have access to the system enter your credentials!",
+  "front.containers.Security.form.userName": "E-mail",
+  "front.containers.Security.form.password": "Password",
+  "front.containers.Security.form.connected": "Remeber me?",
+  "front.containers.Security.form.ptbr": "Português (BR)",
+  "front.containers.Security.form.enus": "English (US)",
+  "front.containers.Security.btn.access": "Log in",
+  "front.containers.Security.btn.recover": "Recover Password",
+  "front.containers.Security.validate.invalid.userName": "Please enter a valid email.",
+  "front.containers.Security.validate.required.userName": "Please enter an email.",
+  "front.containers.Security.validate.required.password": "Please enter an password.",
+
+  "front.containers.Security.modal.error.btnclose": "Close",
+  "front.containers.Security.modal.error.title": "Warning",
+  "front.containers.Security.modal.error.subtitle": "Login Failed!",
+  "front.containers.Security.modal.error.msg": "Failed to access the system, please review your credentials and try again!"
+}

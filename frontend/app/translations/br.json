@@ -1,0 +1,35 @@
+{
+  "front.components.Footer.corporate": "Copyright © 2019-2020",
+  "front.components.Footer.name": "Clínico",
+  "front.components.Footer.nameComplete": "Sistema de Atendimento Clínico.",
+  "front.components.Footer.version": "Versão",
+
+  "front.components.HeaderTop.name": "Clínico",
+  "front.components.HeaderTop.nameComplete": "Sistema de Atendimento Clínico.",
+  "front.components.HeaderTop.shortcut": "Acesso Rápido",
+  "front.components.HeaderTop.notifications": "Notificações",
+  "front.components.HeaderTop.support": "Suporte Online",
+  "front.components.HeaderTop.settings": "Configurações",
+  "front.components.HeaderTop.logout": "Sair",
+
+  "front.components.HeaderTool.module.initial": "Geral",
+  "front.components.HeaderTool.menu.initial": "Inicio",
+
+  "front.containers.Security.title": "Credenciais de acesso",
+  "front.containers.Security.subTitle": "Para ter acesso ao sistema informe suas credenciais!",
+  "front.containers.Security.form.userName": "E-mail",
+  "front.containers.Security.form.password": "Senha",
+  "front.containers.Security.form.connected": "Manter Conectado?",
+  "front.containers.Security.form.ptbr": "Português (BR)",
+  "front.containers.Security.form.enus": "English (US)",
+  "front.containers.Security.btn.access": "Entrar",
+  "front.containers.Security.btn.recover": "Recuperar Senha",
+  "front.containers.Security.validate.invalid.userName": "Por favor, informe um e-mail válido.",
+  "front.containers.Security.validate.required.userName": "Por favor, informe um e-mail.",
+  "front.containers.Security.validate.required.password": "Por favor, informe uma senha.",
+
+  "front.containers.Security.modal.error.btnclose": "Fechar",
+  "front.containers.Security.modal.error.title": "Atenção",
+  "front.containers.Security.modal.error.subtitle": "Falha de Login!",
+  "front.containers.Security.modal.error.msg": "Ocorreu uma falha ao acessar o sistema, por favor revise suas credenciais e tente novamente!"
+}

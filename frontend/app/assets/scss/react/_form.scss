@@ -1,0 +1,21 @@
+.form-control-reduce{
+    height: auto !important;
+    padding: 0 !important;
+}
+.form-control-alternative-reduce{
+    height: calc(2.2rem + 2px);
+}
+
+input.error {
+    border-color: red;
+}
+  
+.input-feedback {
+    color: rgb(235, 54, 54);
+    font-size: 11px;
+}
+
+.input-feedback-login {
+    color: rgb(255, 255, 255);
+    font-size: 11px;
+}
