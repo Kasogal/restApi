@@ -42,6 +42,10 @@ public class Person implements Serializable {
     @JoinColumn(name = "id_tipo_pessoa")
     private TypePerson typePerson;
 
+    @ManyToOne(fetch = FetchType.EAGER)
+    @JoinColumn(name = "id_pessoa_endereco")
+    private PersonAddress personAddress;
+
     @Column(name = "nome")
     private String name;
 
